@@ -9,6 +9,9 @@
     "debug": "ndb server.js",
     "debug:prod": "NODE_ENV=production ndb server.js"
   },
+  "repository": "https://github.com/DckCanal/api-server-template",
+  "author": "Marco De Canal <marco.decanal@gmail.com>",
+  "license": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^16.0.0",
