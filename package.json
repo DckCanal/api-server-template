@@ -1,5 +1,5 @@
 {
-  "name": "API server",
+  "name": "api-server",
   "version": "1.0.0",
   "description": "general API server connected to MongoDB",
   "main": "app.js",
@@ -17,5 +17,8 @@
     "mongoose": "^6.2.10",
     "nodemailer": "^6.7.3",
     "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "ndb": "^1.1.5"
   }
 }
